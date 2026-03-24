@@ -1,0 +1,58 @@
+# BTS – Body to Body
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I need
+I need,I need (What you need, twin?)
+I need (What you need?)
+I need, I need
+I need the whole stadium to ,jump
+Put your phone down, let's get all the fun
+I got my eyes on the row in the front
+The vibe is high,if we bein' blunt
+The vibe is high,let the building (Hey)
+B-T-uh,from evervwhere to Korea
+총 칼 키보드 다 좀 치워 인생은 짧아 증오는 비워
+It's big in real life
+뭘 체면 따져 내려놔, 야 인마
+Hop in
+좀 더 가까이 와 skin to skin
+I need some body to body
+All of your body beside me
+저기 저 달에 닿게 손에 손 너와 나, we on and on
+yeah
+Sunrise, but we don't ao home
+Somebody like you, eh
+Somebody like you, oh
+Somebody like you, eh
+Somebody like you,
+somebody like, everybody like you
+It's so tight
+I mean, 너와의 사이
+I mean, 우리만의 그 style
+I mean, we livin' the life
+두 눈을 감지 않을 이 밤, uh 솟구치는 겨레의 마
+음, mm
+Be about it,be about it,be about it
+You could see about it or you read about it
+Ineed some body to body All of your body beside
+me
+저기저 달에 닿게 손에 손 너와 나, we on and on,
+yeah
+Sunrise, but we don't go home
+Somebody like you, eh
+Somebody like you, oh
+Somebody like you, ayy
+Somebody like you,
+somebody like Everbody like you, ayy
+Somebody like you, oh
+Somebody like you, ayy
+Somebody like you,
+somebody like, everbody like you
+아리랑 아리랑 아라리요 아리랑 고개로 넘어간다 나
+를 버리고 가시는 님은 심리도 못가서 발병난다
+I need the whole stadium to jump
+Put your phone down, let's get all the fun
+You at the side, at the back, at the front
+```
