@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Body to Body",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-24T05:23:23.064769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Body To Body, Heart To Heart",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/01_Body_To_Body,_Heart_To_Heart_Cher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Body to Body",
+      "artist": "XYP",
+      "has_synced": true,
+      "path": "select/02_Body_to_Body_XYP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Body to Body",
+      "artist": "Tomoko Aran",
+      "has_synced": true,
+      "path": "select/03_Body_to_Body_Tomoko_Aran.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Body to Body",
+      "artist": "Tomoko Aran",
+      "has_synced": true,
+      "path": "select/04_Body_to_Body_Tomoko_Aran.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Body to Body",
+      "artist": "Front 242",
+      "has_synced": false,
+      "path": "select/05_Body_to_Body_Front_242.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Body To Body",
+      "artist": "Miami Sound Machine",
+      "has_synced": false,
+      "path": "select/06_Body_To_Body_Miami_Sound_Machine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Body To Body - 2trax",
+      "artist": "Front 242",
+      "has_synced": false,
+      "path": "select/07_Body_To_Body_-_2trax_Front_242.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Body To Body (2trax)",
+      "artist": "Front 242",
+      "has_synced": false,
+      "path": "select/08_Body_To_Body_(2trax)_Front_242.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Body To Body",
+      "artist": "TELYKast",
+      "has_synced": true,
+      "path": "select/09_Body_To_Body_TELYKast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Body To Body",
+      "artist": "TELYKast",
+      "has_synced": true,
+      "path": "select/10_Body_To_Body_TELYKast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Body To Body",
+      "artist": "SOFT BALLET",
+      "has_synced": true,
+      "path": "select/11_Body_To_Body_SOFT_BALLET.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Body to Body #Ycd",
+      "artist": "Burna Boy",
+      "has_synced": true,
+      "path": "select/12_Body_to_Body__Ycd_Burna_Boy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Body to Body",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Body_to_Body_BTS.txt"
+    }
+  ]
+}
